@@ -1,6 +1,6 @@
 # Title
 
-This is my page.
+This is my web page.
 
 ## Abstruct
 
